@@ -1,0 +1,2 @@
+# data_query_collections
+存放所有可共享的query
